@@ -21,7 +21,7 @@
 + Tuples
   + Creating tuples
   + The difference between tuples and lists
-+ Can you remove an character from a string?
++ Can you remove a character from a string?
 
 ## Also Check Out
 
